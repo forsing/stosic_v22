@@ -98,8 +98,8 @@ if __name__ == "__main__":
 
 
 """
-next_loto:       [8, 13, 24, 28, 32, 35, 38]
-next_loto_plus:  [7, 8, 9, 10, 23, 26, 34]
+next_loto:       [8, x, 24, y, 32, z, 38]
+next_loto_plus:  [7, x, 9, y, 23, z, 34]
 """
 
 
